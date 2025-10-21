@@ -255,9 +255,9 @@ If you use this project in your research, please cite
 
 ```bibtex
 @software{motion_movement_tracker,
-  author = {Your Name},
+  author = {Akshansh Mishra},
   title = {Motion Movement Tracker},
   year = {2025},
-  url = {https://github.com/yourusername/motion-movement-tracker}
+  url = {https://github.com/akshansh11/motion-movement-tracker}
 }
 ```
